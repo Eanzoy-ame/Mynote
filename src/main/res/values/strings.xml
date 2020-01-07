@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">便签</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">close navigation drawer</string>
+    <string name="nav_header_title">便签</string>
+    <string name="nav_header_subtitle">17311070115</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">标题:</string>
+    <string name="title2">无标题:</string>
+    <string name="content">内容:</string>
+    <string name="time">年/月/日 时间</string>
+    <string name="share">分享</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="large_text">
+        Version:0.0.3\n\n
+        本软件为西安翻译学院2017级android期末设计\n
+        组员：田寰\n
+        学号：17311070115\n
+        感谢王振辉老师的指导！
+    </string>
+    <string-array name="font">
+        <item>小</item>
+        <item>中</item>
+        <item>大</item>
+    </string-array>
+    <string-array name="font_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>
